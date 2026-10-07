@@ -1,0 +1,14 @@
+C:\Users\EBB2NL317\source\repos\Atividade 06 - Exercícios C#\Atividade 06 - Exercícios C#\bin\Debug\net10.0\Atividade 06 - Exercícios C#.exe
+C:\Users\EBB2NL317\source\repos\Atividade 06 - Exercícios C#\Atividade 06 - Exercícios C#\bin\Debug\net10.0\Atividade 06 - Exercícios C#.deps.json
+C:\Users\EBB2NL317\source\repos\Atividade 06 - Exercícios C#\Atividade 06 - Exercícios C#\bin\Debug\net10.0\Atividade 06 - Exercícios C#.runtimeconfig.json
+C:\Users\EBB2NL317\source\repos\Atividade 06 - Exercícios C#\Atividade 06 - Exercícios C#\bin\Debug\net10.0\Atividade 06 - Exercícios C#.dll
+C:\Users\EBB2NL317\source\repos\Atividade 06 - Exercícios C#\Atividade 06 - Exercícios C#\bin\Debug\net10.0\Atividade 06 - Exercícios C#.pdb
+C:\Users\EBB2NL317\source\repos\Atividade 06 - Exercícios C#\Atividade 06 - Exercícios C#\obj\Debug\net10.0\Atividade 06 - Exercícios C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBB2NL317\source\repos\Atividade 06 - Exercícios C#\Atividade 06 - Exercícios C#\obj\Debug\net10.0\Atividade 06 - Exercícios C#.AssemblyInfoInputs.cache
+C:\Users\EBB2NL317\source\repos\Atividade 06 - Exercícios C#\Atividade 06 - Exercícios C#\obj\Debug\net10.0\Atividade 06 - Exercícios C#.AssemblyInfo.cs
+C:\Users\EBB2NL317\source\repos\Atividade 06 - Exercícios C#\Atividade 06 - Exercícios C#\obj\Debug\net10.0\Atividade 06 - Exercícios C#.csproj.CoreCompileInputs.cache
+C:\Users\EBB2NL317\source\repos\Atividade 06 - Exercícios C#\Atividade 06 - Exercícios C#\obj\Debug\net10.0\Atividade 06 - Exercícios C#.dll
+C:\Users\EBB2NL317\source\repos\Atividade 06 - Exercícios C#\Atividade 06 - Exercícios C#\obj\Debug\net10.0\refint\Atividade 06 - Exercícios C#.dll
+C:\Users\EBB2NL317\source\repos\Atividade 06 - Exercícios C#\Atividade 06 - Exercícios C#\obj\Debug\net10.0\Atividade 06 - Exercícios C#.pdb
+C:\Users\EBB2NL317\source\repos\Atividade 06 - Exercícios C#\Atividade 06 - Exercícios C#\obj\Debug\net10.0\Atividade 06 - Exercícios C#.genruntimeconfig.cache
+C:\Users\EBB2NL317\source\repos\Atividade 06 - Exercícios C#\Atividade 06 - Exercícios C#\obj\Debug\net10.0\ref\Atividade 06 - Exercícios C#.dll
